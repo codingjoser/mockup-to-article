@@ -7,3 +7,9 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+
+In this mockup article I learned how to use 2 new tags: 
+1. Strikethrough - <strike></strike> Draws a line through the words which are in between the tags. 
+2. Superscript - <sup></sup> Draws a superscript (an exponent in math)
+
+I had written some html a few years ago so a lot of the tags were familiar and easy. For this challenge I did not run into anything I though was difficult. When I had problems in this challenge I simply researched solutions on MDN, for example I thought the strikethrough tag looked like this <strikethrough></strikethrough>, but after researching it I figured out that wasn't a tag. 
